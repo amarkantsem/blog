@@ -4,7 +4,8 @@ import AddUser from './components/UserModule/AddUser';
 function App() {
   return (
     <div className="App">
-      <AddUser></AddUser>
+      hi development
+	  i have checked update coomming from master or not
     </div>
   );
 }
